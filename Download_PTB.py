@@ -8,7 +8,7 @@ import os
 import urllib.request
 
 # -----initialization----- #
-save_directory = r"your_storing_path"  # specified storing path
+save_directory = r"your_storing_path"  # alter the storing path !!!
 
 
 # -----defined 'cbk' function----- #
