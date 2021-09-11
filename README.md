@@ -1,6 +1,6 @@
 # Auto_download_PTB
 Automated download ECG .mat files and .info files from PTB database.  
---> https://archive.physionet.org/cgi-bin/atm/ATM?fbclid=IwAR37FA2zF1cYzSy7i9xUYa2nXjG9wjTWept_T3kDmY62wXDepdPMD32MzOU
+:point_right:	 https://archive.physionet.org/cgi-bin/atm/ATM?fbclid=IwAR37FA2zF1cYzSy7i9xUYa2nXjG9wjTWept_T3kDmY62wXDepdPMD32MzOU
 
 Store recordings by patient partition.
 
@@ -13,4 +13,4 @@ Store recordings by patient partition.
    
 
  - A function "plotATM.m" that reads .mat and .info files and plots the converted data was provided on physionet  
-   --> https://archive.physionet.org/physiotools/matlab/plotATM.m 
+   :point_right:	 https://archive.physionet.org/physiotools/matlab/plotATM.m 
